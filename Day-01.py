@@ -14,5 +14,6 @@ print("Maths:", Maths)
 print("Stats:", Stats)
 print("Total:", Total)
 print("Average:", Average)
+
 print("Python_Per_Day:", Python_Per_Day)
 print("Python_Per_Week:", Python_Per_Week)
